@@ -1,0 +1,16 @@
+[12/Jul/2022:20:44:50] (I): WordPress Instance Info:
+[12/Jul/2022:20:44:50] (I): Home URL : http://localhost/hydropla
+[12/Jul/2022:20:44:50] (I): Site URL : http://localhost/hydropla
+[12/Jul/2022:20:44:50] (I): WordPress Version : 6.0.1
+[12/Jul/2022:20:44:50] (I): Onboarding Version : 1.1.24
+[12/Jul/2022:20:44:50] (I): Multisite : No
+[12/Jul/2022:20:44:50] (I): Server Info : Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.2
+[12/Jul/2022:20:44:50] (I): PHP Version : 8.1.2
+[12/Jul/2022:20:44:50] (I): HTTPS : No
+[12/Jul/2022:20:44:50] (I): PHP Max Execution Time : 120
+[12/Jul/2022:20:44:50] (I): PHP Max Input Vars : 1000
+[12/Jul/2022:20:44:50] (I): Max Upload Size : 41943040
+[12/Jul/2022:20:44:50] (I): Plugins:
+[12/Jul/2022:20:44:50] (I): [PLUGIN] Elementor Pro : v3.7.0 (Elementor.com)
+[12/Jul/2022:20:44:50] (I): [PLUGIN] Elementor : v3.6.7 (Elementor.com)
+[12/Jul/2022:20:44:50] (I): [PLUGIN] Templates Patterns Collection : v1.1.24 (ThemeIsle)

@@ -1,0 +1,3 @@
+admin password admin /
+user password upload user-folder
+test password read test/
